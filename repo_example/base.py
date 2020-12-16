@@ -3,7 +3,7 @@ def add_int(a: int, b: int) -> int:
 
     Parameters
     ----------
-    a 
+    a
        first number
     b
        second numbere

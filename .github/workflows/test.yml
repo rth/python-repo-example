@@ -46,5 +46,4 @@ jobs:
 
     - name: Run black
       run: |
-        black --check
-        pytest
+        black --check .
